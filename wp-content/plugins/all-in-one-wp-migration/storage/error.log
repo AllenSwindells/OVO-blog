@@ -1,0 +1,6 @@
+Dec 20 2016 14:01:09
+{"Number":8,"Message":"unserialize(): Error at offset 366 of 4567 bytes","File":"\/Users\/allen\/Documents\/MAMP\/htdocs\/blog\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/database\/class-ai1wm-database-utility.php","Line":56}
+
+Dec 23 2016 13:18:39
+{"Number":8,"Message":"unserialize(): Error at offset 366 of 4567 bytes","File":"\/Users\/allenswindells\/Documents\/MAMP\/htdocs\/blog\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/database\/class-ai1wm-database-utility.php","Line":56}
+

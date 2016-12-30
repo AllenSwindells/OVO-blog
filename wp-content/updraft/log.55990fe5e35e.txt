@@ -1,0 +1,338 @@
+0000.000 (0) Opened log file at time: Fri, 23 Dec 2016 08:59:46 +0000 on http://localhost/blog
+0000.002 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.12.29 WP: 4.7 PHP: 5.6.2 (apache2handler, Darwin als-imac-450.home 16.3.0 Darwin Kernel Version 16.3.0: Thu Nov 17 20:23:58 PST 2016; root:xnu-3789.31.2~1/RELEASE_X86_64 x86_64) MySQL: 5.5.38 WPLANG: en_US Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 62.2M | 63.8M) multisite: N openssl: OpenSSL 0.9.8r 8 Feb 2011 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.003 (0) Free space on disk containing Updraft's temporary directory: 452414.4 MB
+0000.006 (0) Tasks: Backup files: 1 (schedule: weekly) Backup DB:  (schedule: daily)
+0000.007 (0) Processed schedules. Tasks now: Backup files: 1 Backup DB: 
+0000.012 (0) Requesting semaphore lock (f) (apparently not via scheduler)
+0000.014 (0) Set semaphore last lock (f) time to 2016-12-23 08:59:46
+0000.015 (0) Semaphore lock (f) complete
+0000.019 (0) Backup run: resumption=0, nonce=55990fe5e35e, begun at=1482483586 (0s ago), job type=backup
+0000.020 (0) Scheduling a resumption (1) after 300 seconds (1482483886) in case this run gets aborted
+0000.023 (0) Checking if we have a zip executable available
+0000.025 (0) Testing: /usr/bin/zip
+0000.041 (0) Output: zip warning: binziptest/test.zip not found or empty
+0000.043 (0) Output: adding: binziptest/subdir1/	(in=0) (out=0) (stored 0%)
+0000.045 (0) Output: adding: binziptest/subdir1/subdir2/	(in=0) (out=0) (stored 0%)
+0000.046 (0) Output: adding: binziptest/subdir1/subdir2/test.html	(in=131) (out=107) (deflated 18%)
+0000.047 (0) Output: total bytes=131, compressed=107 -> 18% savings
+0000.072 (0) Output: adding: binziptest/subdir1/subdir2/test2.html	(in=138) (out=113) (deflated 18%)
+0000.075 (0) Output: total bytes=269, compressed=220 -> 18% savings
+0000.119 (0) Working binary zip found: /usr/bin/zip
+0000.122 (0) Zip engine: found/will use a binary zip: /usr/bin/zip
+0000.123 (0) Creation of backups of directories: beginning
+0000.132 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0001.128 (0) Total entities for the zip file: 1224 directories, 7458 files (0 skipped as non-modified), 108.6 MB
+0001.139 (0) Zip: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0001.148 (0) Zip: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0001.157 (0) Zip: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0001.165 (0) Zip: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0001.175 (0) Zip: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0001.176 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (5.4 MB, 7458 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0005.972 (0) backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-plugins.zip.tmp: size is now: 2.50 MB
+0005.986 (0) Zip: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-plugins.zip.tmp: 600 files added (on-disk size: 2585.7 KB)
+0005.996 (0) Zip: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-plugins.zip.tmp: 700 files added (on-disk size: 2585.7 KB)
+0006.007 (0) Zip: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-plugins.zip.tmp: 800 files added (on-disk size: 2585.7 KB)
+0006.017 (0) Zip: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-plugins.zip.tmp: 900 files added (on-disk size: 2585.7 KB)
+0006.027 (0) Zip: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-plugins.zip.tmp: 1000 files added (on-disk size: 2585.7 KB)
+0006.029 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (1.5 MB, 7458 files batched, 501 (1002) added so far); re-opening (prior size: 2585.7 KB)
+0010.538 (0) backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-plugins.zip.tmp: size is now: 3.10 MB
+0010.552 (0) Zip: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-plugins.zip.tmp: 1100 files added (on-disk size: 3224.1 KB)
+0010.561 (0) Zip: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-plugins.zip.tmp: 1200 files added (on-disk size: 3224.1 KB)
+0010.570 (0) Zip: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-plugins.zip.tmp: 1300 files added (on-disk size: 3224.1 KB)
+0010.579 (0) Zip: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-plugins.zip.tmp: 1400 files added (on-disk size: 3224.1 KB)
+0010.588 (0) Zip: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-plugins.zip.tmp: 1500 files added (on-disk size: 3224.1 KB)
+0010.590 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (23.4 MB, 7458 files batched, 501 (1503) added so far); re-opening (prior size: 3224.1 KB)
+0016.315 (0) backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-plugins.zip.tmp: size is now: 6.60 MB
+0016.327 (0) Zip: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-plugins.zip.tmp: 1600 files added (on-disk size: 6747.2 KB)
+0016.336 (0) Zip: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-plugins.zip.tmp: 1700 files added (on-disk size: 6747.2 KB)
+0016.344 (0) Zip: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-plugins.zip.tmp: 1800 files added (on-disk size: 6747.2 KB)
+0016.353 (0) Zip: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-plugins.zip.tmp: 1900 files added (on-disk size: 6747.2 KB)
+0016.361 (0) Zip: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-plugins.zip.tmp: 2000 files added (on-disk size: 6747.2 KB)
+0016.363 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (17.8 MB, 7458 files batched, 501 (2004) added so far); re-opening (prior size: 6747.2 KB)
+0024.378 (0) backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-plugins.zip.tmp: size is now: 11.60 MB
+0024.389 (0) Zip: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-plugins.zip.tmp: 2100 files added (on-disk size: 11850 KB)
+0024.398 (0) Zip: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-plugins.zip.tmp: 2200 files added (on-disk size: 11850 KB)
+0024.406 (0) Zip: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-plugins.zip.tmp: 2300 files added (on-disk size: 11850 KB)
+0024.414 (0) Zip: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-plugins.zip.tmp: 2400 files added (on-disk size: 11850 KB)
+0024.423 (0) Zip: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-plugins.zip.tmp: 2500 files added (on-disk size: 11850 KB)
+0024.424 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (10 MB, 7458 files batched, 501 (2505) added so far); re-opening (prior size: 11850 KB)
+0030.624 (0) backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-plugins.zip.tmp: size is now: 16.30 MB
+0030.637 (0) Zip: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-plugins.zip.tmp: 2600 files added (on-disk size: 16671.4 KB)
+0030.646 (0) Zip: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-plugins.zip.tmp: 2700 files added (on-disk size: 16671.4 KB)
+0030.655 (0) Zip: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-plugins.zip.tmp: 2800 files added (on-disk size: 16671.4 KB)
+0030.664 (0) Zip: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-plugins.zip.tmp: 2900 files added (on-disk size: 16671.4 KB)
+0030.674 (0) Zip: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-plugins.zip.tmp: 3000 files added (on-disk size: 16671.4 KB)
+0030.676 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (3.3 MB, 7458 files batched, 501 (3006) added so far); re-opening (prior size: 16671.4 KB)
+0036.646 (0) Zip: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-plugins.zip.tmp: 3100 files added (on-disk size: 17961.8 KB)
+0036.655 (0) Zip: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-plugins.zip.tmp: 3200 files added (on-disk size: 17961.8 KB)
+0036.664 (0) Zip: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-plugins.zip.tmp: 3300 files added (on-disk size: 17961.8 KB)
+0036.674 (0) Zip: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-plugins.zip.tmp: 3400 files added (on-disk size: 17961.8 KB)
+0036.683 (0) Zip: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-plugins.zip.tmp: 3500 files added (on-disk size: 17961.8 KB)
+0036.685 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (5 MB, 7458 files batched, 501 (3507) added so far); re-opening (prior size: 17961.8 KB)
+0042.983 (0) Zip: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-plugins.zip.tmp: 3600 files added (on-disk size: 20217.6 KB)
+0042.993 (0) Zip: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-plugins.zip.tmp: 3700 files added (on-disk size: 20217.6 KB)
+0043.002 (0) Zip: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-plugins.zip.tmp: 3800 files added (on-disk size: 20217.6 KB)
+0043.011 (0) Zip: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-plugins.zip.tmp: 3900 files added (on-disk size: 20217.6 KB)
+0043.019 (0) Zip: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-plugins.zip.tmp: 4000 files added (on-disk size: 20217.6 KB)
+0043.021 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (4.5 MB, 7458 files batched, 501 (4008) added so far); re-opening (prior size: 20217.6 KB)
+0047.059 (0) Zip: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-plugins.zip.tmp: 4100 files added (on-disk size: 21758.6 KB)
+0047.068 (0) Zip: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-plugins.zip.tmp: 4200 files added (on-disk size: 21758.6 KB)
+0047.077 (0) Zip: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-plugins.zip.tmp: 4300 files added (on-disk size: 21758.6 KB)
+0047.085 (0) Zip: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-plugins.zip.tmp: 4400 files added (on-disk size: 21758.6 KB)
+0047.093 (0) Zip: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-plugins.zip.tmp: 4500 files added (on-disk size: 21758.6 KB)
+0047.095 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (1.5 MB, 7458 files batched, 501 (4509) added so far); re-opening (prior size: 21758.6 KB)
+0050.589 (0) Zip: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-plugins.zip.tmp: 4600 files added (on-disk size: 22516 KB)
+0050.598 (0) Zip: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-plugins.zip.tmp: 4700 files added (on-disk size: 22516 KB)
+0050.607 (0) Zip: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-plugins.zip.tmp: 4800 files added (on-disk size: 22516 KB)
+0050.615 (0) Zip: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-plugins.zip.tmp: 4900 files added (on-disk size: 22516 KB)
+0050.624 (0) Zip: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-plugins.zip.tmp: 5000 files added (on-disk size: 22516 KB)
+0050.626 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (1.3 MB, 7458 files batched, 501 (5010) added so far); re-opening (prior size: 22516 KB)
+0054.754 (0) Zip: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-plugins.zip.tmp: 5100 files added (on-disk size: 23081.9 KB)
+0054.763 (0) Zip: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-plugins.zip.tmp: 5200 files added (on-disk size: 23081.9 KB)
+0054.771 (0) Zip: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-plugins.zip.tmp: 5300 files added (on-disk size: 23081.9 KB)
+0054.780 (0) Zip: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-plugins.zip.tmp: 5400 files added (on-disk size: 23081.9 KB)
+0054.788 (0) Zip: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-plugins.zip.tmp: 5500 files added (on-disk size: 23081.9 KB)
+0054.790 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (3.1 MB, 7458 files batched, 501 (5511) added so far); re-opening (prior size: 23081.9 KB)
+0058.726 (0) Zip: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-plugins.zip.tmp: 5600 files added (on-disk size: 24616.1 KB)
+0058.736 (0) Zip: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-plugins.zip.tmp: 5700 files added (on-disk size: 24616.1 KB)
+0058.745 (0) Zip: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-plugins.zip.tmp: 5800 files added (on-disk size: 24616.1 KB)
+0058.754 (0) Zip: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-plugins.zip.tmp: 5900 files added (on-disk size: 24616.1 KB)
+0058.762 (0) Zip: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-plugins.zip.tmp: 6000 files added (on-disk size: 24616.1 KB)
+0058.764 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (16.5 MB, 7458 files batched, 501 (6012) added so far); re-opening (prior size: 24616.1 KB)
+0065.519 (0) backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-plugins.zip.tmp: size is now: 29.40 MB
+0065.531 (0) Zip: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-plugins.zip.tmp: 6100 files added (on-disk size: 30096.6 KB)
+0065.539 (0) Zip: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-plugins.zip.tmp: 6200 files added (on-disk size: 30096.6 KB)
+0065.548 (0) Zip: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-plugins.zip.tmp: 6300 files added (on-disk size: 30096.6 KB)
+0065.557 (0) Zip: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-plugins.zip.tmp: 6400 files added (on-disk size: 30096.6 KB)
+0065.565 (0) Zip: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-plugins.zip.tmp: 6500 files added (on-disk size: 30096.6 KB)
+0065.568 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (2 MB, 7458 files batched, 501 (6513) added so far); re-opening (prior size: 30096.6 KB)
+0070.269 (0) Zip: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-plugins.zip.tmp: 6600 files added (on-disk size: 30814.4 KB)
+0070.279 (0) Zip: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-plugins.zip.tmp: 6700 files added (on-disk size: 30814.4 KB)
+0070.287 (0) Zip: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-plugins.zip.tmp: 6800 files added (on-disk size: 30814.4 KB)
+0070.296 (0) Zip: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-plugins.zip.tmp: 6900 files added (on-disk size: 30814.4 KB)
+0070.306 (0) Zip: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-plugins.zip.tmp: 7000 files added (on-disk size: 30814.4 KB)
+0070.308 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (3.5 MB, 7458 files batched, 501 (7014) added so far); re-opening (prior size: 30814.4 KB)
+0075.026 (0) Zip: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-plugins.zip.tmp: 7100 files added (on-disk size: 32710.9 KB)
+0075.036 (0) Zip: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-plugins.zip.tmp: 7200 files added (on-disk size: 32710.9 KB)
+0075.044 (0) Zip: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-plugins.zip.tmp: 7300 files added (on-disk size: 32710.9 KB)
+0075.053 (0) Zip: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-plugins.zip.tmp: 7400 files added (on-disk size: 32710.9 KB)
+0081.189 (0) Created plugins zip (0) - 35973.1 KB in 81.1 s (443.8 KB/s) (SHA1 checksum: a6e07699506a60751f250aa11b33f9c5e0f6c780)
+0081.195 (0) Beginning creation of dump of themes (split every: 400 MB)
+0081.332 (0) Total entities for the zip file: 161 directories, 1219 files (0 skipped as non-modified), 47.6 MB
+0081.341 (0) Zip: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0081.351 (0) Zip: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0081.360 (0) Zip: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0081.368 (0) Zip: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0081.377 (0) Zip: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+0081.379 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (24.3 MB, 1219 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0090.674 (0) backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-themes.zip.tmp: size is now: 5.50 MB
+0090.693 (0) Zip: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-themes.zip.tmp: 600 files added (on-disk size: 5615.5 KB)
+0090.702 (0) Zip: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-themes.zip.tmp: 700 files added (on-disk size: 5615.5 KB)
+0090.711 (0) Zip: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-themes.zip.tmp: 800 files added (on-disk size: 5615.5 KB)
+0090.719 (0) Zip: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-themes.zip.tmp: 900 files added (on-disk size: 5615.5 KB)
+0090.728 (0) Zip: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-themes.zip.tmp: 1000 files added (on-disk size: 5615.5 KB)
+0090.729 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (17.6 MB, 1219 files batched, 501 (1002) added so far); re-opening (prior size: 5615.5 KB)
+0099.975 (0) backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-themes.zip.tmp: size is now: 10.20 MB
+0099.988 (0) Zip: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-themes.zip.tmp: 1100 files added (on-disk size: 10492 KB)
+0099.997 (0) Zip: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-themes.zip.tmp: 1200 files added (on-disk size: 10492 KB)
+0103.791 (0) backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-themes.zip.tmp: size is now: 13.30 MB
+0103.929 (0) Created themes zip (0) - 13588.1 KB in 22.7 s (597.8 KB/s) (SHA1 checksum: 25d1ace7cf1bced79e7dc140c931390b27012797)
+0103.934 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0103.936 (0) Looking for candidates to back up in: /Users/allen/Documents/MAMP/htdocs/blog/wp-content/uploads
+0103.937 (0) finding files: 2015: adding to list (1)
+0103.939 (0) finding files: 2016: adding to list (2)
+0103.940 (0) finding files: 2017: adding to list (3)
+0103.941 (0) finding files: cache: adding to list (4)
+0103.943 (0) finding files: GeoIP.dat: adding to list (5)
+0103.944 (0) finding files: GeoIPv6.dat: adding to list (6)
+0103.945 (0) finding files: manifests: adding to list (7)
+0103.946 (0) finding files: redux: adding to list (8)
+0103.948 (0) finding files: themler-export: adding to list (9)
+0103.949 (0) finding files: wc-logs: adding to list (10)
+0103.950 (0) finding files: woocommerce_uploads: adding to list (11)
+0103.951 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0104.138 (0) Total entities for the zip file: 21 directories, 852 files (0 skipped as non-modified), 105.8 MB
+0104.147 (0) Zip: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0104.156 (0) Zip: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-uploads.zip.tmp: 200 files added (on-disk size: 0 KB)
+0104.163 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 25 MB added on this batch (25.2 MB, 852 files batched, 270 (270) added so far); re-opening (prior size: 0 KB)
+0111.452 (0) backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-uploads.zip.tmp: size is now: 25.20 MB
+0111.457 (0) A useful amount of data was added after this amount of zip processing: 7.8 s (normalised: 7.7 s, rate: 3321.4 KB/s)
+0111.462 (0) Zip: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-uploads.zip.tmp: 300 files added (on-disk size: 25834.8 KB)
+0111.472 (0) Zip: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-uploads.zip.tmp: 400 files added (on-disk size: 25834.8 KB)
+0111.482 (0) Zip: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-uploads.zip.tmp: 500 files added (on-disk size: 25834.8 KB)
+0111.485 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 25 MB added on this batch (25.5 MB, 852 files batched, 248 (518) added so far); re-opening (prior size: 25834.8 KB)
+0118.818 (0) backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-uploads.zip.tmp: size is now: 50.80 MB
+0118.823 (0) A useful amount of data was added after this amount of zip processing: 8.1 s (normalised: 8 s, rate: 3214 KB/s)
+0118.832 (0) Zip: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-uploads.zip.tmp: 600 files added (on-disk size: 52052.9 KB)
+0118.842 (0) Zip: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-uploads.zip.tmp: 700 files added (on-disk size: 52052.9 KB)
+0118.846 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 25 MB added on this batch (27 MB, 852 files batched, 206 (724) added so far); re-opening (prior size: 52052.9 KB)
+0125.446 (0) backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-uploads.zip.tmp: size is now: 77.80 MB
+0125.450 (0) A useful amount of data was added after this amount of zip processing: 6.8 s (normalised: 6.3 s, rate: 4078.7 KB/s)
+0125.459 (0) Zip: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-uploads.zip.tmp: 800 files added (on-disk size: 79692.6 KB)
+0125.463 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 25 MB added on this batch (25.9 MB, 852 files batched, 106 (830) added so far); re-opening (prior size: 79692.6 KB)
+107107.806 (1) Opened log file at time: Sat, 24 Dec 2016 14:44:54 +0000 on http://localhost/blog
+107107.811 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.12.29 WP: 4.7 PHP: 5.6.2 (apache2handler, Darwin als-imac-450.home 16.3.0 Darwin Kernel Version 16.3.0: Thu Nov 17 20:23:58 PST 2016; root:xnu-3789.31.2~1/RELEASE_X86_64 x86_64) MySQL: 5.5.38 WPLANG: en_US Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 50.4M | 51.8M) multisite: N openssl: OpenSSL 0.9.8r 8 Feb 2011 mcrypt: Y LANG:  ZipArchive::addFile: Y
+107107.813 (1) Free space on disk containing Updraft's temporary directory: 458782.1 MB
+107107.815 (1) Backup run: resumption=1, nonce=55990fe5e35e, begun at=1482483586 (107108s ago), job type=backup, previous check-in=125.5s
+107107.817 (1) Long time past since expected resumption time: approx expected=1482484011.8, now=1482590694.1, diff=106682.3
+107107.820 (1) [Warning] Your website is visited infrequently and UpdraftPlus is not getting the resources it hoped for; please read this page: https://updraftplus.com/faqs/why-am-i-getting-warnings-about-my-site-not-having-enough-visitors/
+107107.823 (1) Scheduling a resumption (2) after 300 seconds (1482590994) in case this run gets aborted
+107107.852 (1) Checking if we have a zip executable available
+107107.854 (1) Zip engine: found/will use a binary zip: /usr/bin/zip
+107107.855 (1) Creation of backups of directories: had begun; will resume
+107107.869 (1) Beginning creation of dump of plugins (split every: 400 MB)
+107107.871 (1) backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-plugins.zip: this file has already been created (age: 107027 s)
+107107.880 (1) Beginning creation of dump of themes (split every: 400 MB)
+107107.882 (1) backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-themes.zip: this file has already been created (age: 107004 s)
+107107.889 (1) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+107107.893 (1) Looking for candidates to back up in: /Applications/MAMP/htdocs/blog/wp-content/uploads
+107107.895 (1) finding files: 2015: adding to list (1)
+107107.898 (1) finding files: 2016: adding to list (2)
+107107.899 (1) finding files: 2017: adding to list (3)
+107107.901 (1) finding files: cache: adding to list (4)
+107107.902 (1) finding files: GeoIP.dat: adding to list (5)
+107107.904 (1) finding files: GeoIPv6.dat: adding to list (6)
+107107.908 (1) finding files: manifests: adding to list (7)
+107107.910 (1) finding files: redux: adding to list (8)
+107107.912 (1) finding files: themler-export: adding to list (9)
+107107.914 (1) finding files: wc-logs: adding to list (10)
+107107.915 (1) finding files: woocommerce_uploads: adding to list (11)
+107107.917 (1) Beginning creation of dump of uploads (split every: 400 MB)
+107107.920 (1) File exists (/Applications/MAMP/htdocs/blog/wp-content/updraft/backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-uploads.zip.tmp), but was apparently not modified within the last 30 seconds, so we assume that any previous run has now terminated (time_mod=1482483711, time_now=1482590694, diff=106983)
+107108.011 (1) backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-uploads.zip.tmp: Zip file already exists, with 724 files
+107108.101 (1) Total entities for the zip file: 22 directories, 853 files (0 skipped as non-modified), 105.8 MB
+107108.107 (1) Zip: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-uploads.zip.tmp: 100 files added (on-disk size: 79692.6 KB)
+107108.113 (1) Zip: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-uploads.zip.tmp: 200 files added (on-disk size: 79692.6 KB)
+107108.119 (1) Zip: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-uploads.zip.tmp: 300 files added (on-disk size: 79692.6 KB)
+107108.125 (1) Zip: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-uploads.zip.tmp: 400 files added (on-disk size: 79692.6 KB)
+107108.140 (1) Zip: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-uploads.zip.tmp: 500 files added (on-disk size: 79692.6 KB)
+107108.145 (1) Zip: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-uploads.zip.tmp: 600 files added (on-disk size: 79692.6 KB)
+107108.160 (1) Zip: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-uploads.zip.tmp: 700 files added (on-disk size: 79692.6 KB)
+107108.169 (1) Zip: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-uploads.zip.tmp: 800 files added (on-disk size: 79692.6 KB)
+107108.180 (1) Adding batch to zip file (UpdraftPlus_BinZip): over 25 MB added on this batch (25.9 MB, 853 files batched, 107 (107) added so far); re-opening (prior size: 79692.6 KB)
+107109.705 (1) backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-uploads.zip.tmp: size is now: 102.40 MB
+107109.709 (1) A useful amount of data was added after this amount of zip processing: 2 s (normalised: 2 s, rate: 13097.5 KB/s)
+107109.712 (1) Performance is good - will increase the amount of data we attempt to batch (time=2.02484488487, normalised_time=1.9545741908, max_time=125, data points known=1, old_max_bytes=26214400, new_max_bytes=209715200)
+107111.264 (1) Created uploads zip (0) - 107163.3 KB in 3.3 s (32070 KB/s) (SHA1 checksum: 604b9f5f53a4ae15c72b7d8da34b08525cb86c63)
+107111.270 (1) Beginning backup of other directories found in the content directory (index: 0)
+107111.272 (1) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+107111.273 (1) Looking for candidates to back up in: /Applications/MAMP/htdocs/blog/wp-content
+107111.275 (1) finding files: advanced-cache.php: adding to list (1)
+107111.277 (1) finding files: ai1wm-backups: skipping: excluded by options (glob)
+107111.278 (1) finding files: cache: skipping: excluded by options
+107111.280 (1) finding files: index.php: adding to list (2)
+107111.281 (1) finding files: languages: adding to list (3)
+107111.282 (1) finding files: plugins: skipping: this is the plugins directory
+107111.283 (1) finding files: themes: skipping: this is the themes directory
+107111.285 (1) finding files: updraft: skipping: this is the updraft directory
+107111.286 (1) finding files: upgrade: skipping: excluded by options
+107111.287 (1) finding files: uploads: skipping: this is the uploads directory
+107111.289 (1) finding files: wp-cache-config.php: adding to list (4)
+107111.298 (1) Total entities for the zip file: 3 directories, 49 files (0 skipped as non-modified), 4.9 MB
+107111.661 (1) backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-others.zip.tmp: size is now: 1.30 MB
+107111.684 (1) Created others zip (0) - 1365.5 KB in 0.4 s (3479.5 KB/s) (SHA1 checksum: f4c8037794975b6d3bc53a4757028b2c6df53f0b)
+107111.693 (1) Saving backup status to database (elements: 8)
+107111.697 (1) No database backup (wp) - not part of this run
+107111.700 (1) backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+107111.701 (1) backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+107111.702 (1) backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+107111.704 (1) backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-others.zip: others: This file has not yet been successfully uploaded: will queue
+107111.705 (1) Saving backup history. Total backup size: 154.4 MB
+107111.709 (1) Requesting upload of the files that have not yet been successfully uploaded (4)
+107111.712 (1) Cloud backup selection (1/1): dropbox (last)
+107111.719 (1) Beginning dispatch of backup to remote (dropbox)
+107111.721 (1) Dropbox: begin cloud upload (using API version 2 with OAuth v2 token)
+107111.746 (1) Dropbox: access gained; setting chunk size to: 1024 KB
+107112.607 (1) Dropbox quota usage: used=1974.2 MB, total=2560 MB, available=585.8 MB
+107112.609 (1) Dropbox: Attempt to upload: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-plugins.zip to: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-plugins.zip
+107115.769 (1) Dropbox chunked upload: 2.8 % uploaded (AAAAAAAABLWqQiObsoCb4g, 1048576, 2560 KB)
+107119.486 (1) Dropbox chunked upload: 10 % uploaded (AAAAAAAABLWqQiObsoCb4g, 3670016, 6144 KB)
+107127.345 (1) Dropbox chunked upload: 27 % uploaded (AAAAAAAABLWqQiObsoCb4g, 9961472, 6656 KB)
+107135.268 (1) Dropbox chunked upload: 45.5 % uploaded (AAAAAAAABLWqQiObsoCb4g, 16777216, 7168 KB)
+107142.807 (1) Dropbox chunked upload: 65.5 % uploaded (AAAAAAAABLWqQiObsoCb4g, 24117248, 8192 KB)
+107152.024 (1) Dropbox chunked upload: 88.2 % uploaded (AAAAAAAABLWqQiObsoCb4g, 32505856, 7680 KB)
+107158.673 (1) Dropbox chunked upload: 100 % uploaded (AAAAAAAABLWqQiObsoCb4g, 36836479, 7680 KB)
+107160.726 (1) Recording as successfully uploaded: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-plugins.zip (d6704521ec9d780cc4f7bacb0a103a90)
+107160.736 (1) Deleting local file: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-plugins.zip: OK
+107160.738 (1) Dropbox: File upload success (backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-plugins.zip): 35973 KB in 48s (747 KB/s)
+107161.506 (1) Dropbox quota usage: used=2009.4 MB, total=2560 MB, available=550.6 MB
+107161.507 (1) Dropbox: Attempt to upload: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-themes.zip to: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-themes.zip
+107170.260 (1) Dropbox chunked upload: 56.5 % uploaded (AAAAAAAABLbLXjGojyioNw, 7864320, 7680 KB)
+107178.579 (1) Dropbox chunked upload: 100 % uploaded (AAAAAAAABLbLXjGojyioNw, 13914236, 7680 KB)
+107180.199 (1) Recording as successfully uploaded: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-themes.zip (f1cc5dcc9cd4fcf88b78430eb239b5cc)
+107180.206 (1) Deleting local file: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-themes.zip: OK
+107180.207 (1) Dropbox: File upload success (backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-themes.zip): 13588 KB in 18s (726 KB/s)
+107180.977 (1) Dropbox quota usage: used=2022.6 MB, total=2560 MB, available=537.4 MB
+107180.979 (1) Dropbox: Attempt to upload: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-uploads.zip to: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-uploads.zip
+107189.856 (1) Dropbox chunked upload: 7.2 % uploaded (AAAAAAAABLdF6YgSqcwC3A, 7864320, 7680 KB)
+107198.823 (1) Dropbox chunked upload: 14.3 % uploaded (AAAAAAAABLdF6YgSqcwC3A, 15728640, 7680 KB)
+107208.037 (1) Dropbox chunked upload: 21.5 % uploaded (AAAAAAAABLdF6YgSqcwC3A, 23592960, 7168 KB)
+107216.566 (1) Dropbox chunked upload: 28.2 % uploaded (AAAAAAAABLdF6YgSqcwC3A, 30932992, 7168 KB)
+107225.650 (1) Dropbox chunked upload: 34.9 % uploaded (AAAAAAAABLdF6YgSqcwC3A, 38273024, 6656 KB)
+107232.829 (1) Dropbox chunked upload: 41.1 % uploaded (AAAAAAAABLdF6YgSqcwC3A, 45088768, 8192 KB)
+107242.635 (1) Dropbox chunked upload: 48.7 % uploaded (AAAAAAAABLdF6YgSqcwC3A, 53477376, 7168 KB)
+107251.808 (1) Dropbox chunked upload: 55.4 % uploaded (AAAAAAAABLdF6YgSqcwC3A, 60817408, 6656 KB)
+107260.522 (1) Dropbox chunked upload: 61.6 % uploaded (AAAAAAAABLdF6YgSqcwC3A, 67633152, 6656 KB)
+107268.044 (1) Dropbox chunked upload: 67.8 % uploaded (AAAAAAAABLdF6YgSqcwC3A, 74448896, 7680 KB)
+107277.217 (1) Dropbox chunked upload: 75 % uploaded (AAAAAAAABLdF6YgSqcwC3A, 82313216, 7168 KB)
+107285.554 (1) Dropbox chunked upload: 81.7 % uploaded (AAAAAAAABLdF6YgSqcwC3A, 89653248, 7680 KB)
+107294.465 (1) Dropbox chunked upload: 88.9 % uploaded (AAAAAAAABLdF6YgSqcwC3A, 97517568, 7680 KB)
+107303.876 (1) Dropbox chunked upload: 96 % uploaded (AAAAAAAABLdF6YgSqcwC3A, 105381888, 7168 KB)
+107309.230 (1) Dropbox chunked upload: 100 % uploaded (AAAAAAAABLdF6YgSqcwC3A, 109735209, 7168 KB)
+107310.744 (1) Recording as successfully uploaded: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-uploads.zip (7c26c6ffbf54e8aa118a2128cbcac2ee)
+107310.758 (1) Deleting local file: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-uploads.zip: OK
+107310.759 (1) Dropbox: File upload success (backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-uploads.zip): 107163 KB in 129s (825 KB/s)
+107311.559 (1) Dropbox quota usage: used=2127.3 MB, total=2560 MB, available=432.7 MB
+107311.561 (1) Dropbox: Attempt to upload: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-others.zip to: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-others.zip
+107314.725 (1) Dropbox chunked upload: 100 % uploaded (AAAAAAAABLi79ufOLuYQVA, 1398314, 7168 KB)
+107316.411 (1) Recording as successfully uploaded: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-others.zip (51daa183fe3a43c6c5ec9270c7470871)
+107316.418 (1) Deleting local file: backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-others.zip: OK
+107316.419 (1) Dropbox: File upload success (backup_2016-12-23-0859_OVO_Network_Blog_55990fe5e35e-others.zip): 1365 KB in 4s (281 KB/s)
+107316.423 (1) Retain: beginning examination of existing backup sets; user setting: retain_files=4, retain_db=7
+107316.424 (1) Number of backup sets in history: 9; groups (db): 1
+107316.426 (1) Examining (for databases) backup set with group_id=0, nonce=55990fe5e35e, datestamp=1482483586 (Dec 23 2016 08:59:46)
+107316.427 (1) Examining (for databases) backup set with group_id=0, nonce=98e4399d752c, datestamp=1482483561 (Dec 23 2016 08:59:21)
+107316.428 (1) This backup set remains non-empty (f=0/d=1); will retain in history
+107316.430 (1) Examining (for databases) backup set with group_id=0, nonce=e93b0ad98b63, datestamp=1482173081 (Dec 19 2016 18:44:41)
+107316.431 (1) This backup set remains non-empty (f=0/d=1); will retain in history
+107316.432 (1) Examining (for databases) backup set with group_id=0, nonce=6dc0109ebece, datestamp=1482086448 (Dec 18 2016 18:40:48)
+107316.434 (1) This backup set remains non-empty (f=0/d=1); will retain in history
+107316.436 (1) Examining (for databases) backup set with group_id=0, nonce=8d427cbf10a2, datestamp=1482000035 (Dec 17 2016 18:40:35)
+107316.437 (1) This backup set remains non-empty (f=0/d=1); will retain in history
+107316.438 (1) Examining (for databases) backup set with group_id=0, nonce=f402747134f6, datestamp=1481913686 (Dec 16 2016 18:41:26)
+107316.439 (1) This backup set remains non-empty (f=0/d=1); will retain in history
+107316.441 (1) Examining (for databases) backup set with group_id=0, nonce=07871a4635b8, datestamp=1481827779 (Dec 15 2016 18:49:39)
+107316.442 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+107316.443 (1) Examining (for databases) backup set with group_id=0, nonce=d7c5ac77368f, datestamp=1481740921 (Dec 14 2016 18:42:01)
+107316.445 (1) This backup set remains non-empty (f=0/d=1); will retain in history
+107316.446 (1) Examining (for databases) backup set with group_id=0, nonce=af07cf2671eb, datestamp=1481222532 (Dec 08 2016 18:42:12)
+107316.448 (1) Number of backup sets in history: 9; groups (files): 1
+107316.449 (1) Examining (for files) backup set with nonce=55990fe5e35e, datestamp=1482483586 (Dec 23 2016 08:59:46)
+107316.451 (1) This backup set is the backup set just made, so will not be deleted.
+107316.452 (1) This backup set is the backup set just made, so will not be deleted.
+107316.453 (1) This backup set is the backup set just made, so will not be deleted.
+107316.453 (1) This backup set is the backup set just made, so will not be deleted.
+107316.454 (1) This backup set remains non-empty (f=1/d=0); will retain in history
+107316.455 (1) Examining (for files) backup set with nonce=98e4399d752c, datestamp=1482483561 (Dec 23 2016 08:59:21)
+107316.456 (1) This backup set remains non-empty (f=0/d=1); will retain in history
+107316.458 (1) Examining (for files) backup set with nonce=e93b0ad98b63, datestamp=1482173081 (Dec 19 2016 18:44:41)
+107316.459 (1) This backup set remains non-empty (f=0/d=1); will retain in history
+107316.460 (1) Examining (for files) backup set with nonce=6dc0109ebece, datestamp=1482086448 (Dec 18 2016 18:40:48)
+107316.461 (1) This backup set remains non-empty (f=0/d=1); will retain in history
+107316.463 (1) Examining (for files) backup set with nonce=8d427cbf10a2, datestamp=1482000035 (Dec 17 2016 18:40:35)
+107316.464 (1) This backup set remains non-empty (f=0/d=1); will retain in history
+107316.465 (1) Examining (for files) backup set with nonce=f402747134f6, datestamp=1481913686 (Dec 16 2016 18:41:26)
+107316.466 (1) This backup set remains non-empty (f=0/d=1); will retain in history
+107316.468 (1) Examining (for files) backup set with nonce=07871a4635b8, datestamp=1481827779 (Dec 15 2016 18:49:39)
+107316.469 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+107316.470 (1) Examining (for files) backup set with nonce=d7c5ac77368f, datestamp=1481740921 (Dec 14 2016 18:42:01)
+107316.472 (1) This backup set remains non-empty (f=0/d=1); will retain in history
+107316.473 (1) Examining (for files) backup set with nonce=af07cf2671eb, datestamp=1481222532 (Dec 08 2016 18:42:12)
+107316.474 (1) This backup set remains non-empty (f=1/d=0); will retain in history
+107316.476 (1) Retain: saving new backup history (sets now: 9) and finishing retain operation
+107316.481 (1) Resume backup (55990fe5e35e, 1): finish run
+107316.483 (1) There were no errors in the uploads, so the 'resume' event (2) is being unscheduled
+107316.490 (1) Fetching RSS news feed
+107316.769 (1) Fetched RSS news feed; result is a: SimplePie
+107316.811 (1) Sending email ('Files only (database was not part of this particular schedule) (Full backup)') report (attachments: 1, size: 37.7 KB) to: allen...
+107316.927 (1) The backup apparently succeeded (with warnings) and is now complete

@@ -1,0 +1,459 @@
+0000.001 (0) Opened log file at time: Thu, 15 Dec 2016 18:49:39 +0000 on https://www.ovonetwork.com/blog/wp
+0000.004 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.12.29 WP: 4.7 PHP: 5.6.23 (apache2handler, Linux ovo.toastserver.com 2.6.32-573.7.1.el6.x86_64 #1 SMP Tue Sep 22 22:00:00 UTC 2015 x86_64) MySQL: 5.5.5 WPLANG: en_US Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 9.4M | 10M) multisite: N openssl: OpenSSL 1.0.1e-fips 11 Feb 2013 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.007 (0) Free space on disk containing Updraft's temporary directory: 441573.8 MB
+0000.010 (0) Tasks: Backup files: 1 (schedule: weekly) Backup DB:  (schedule: daily)
+0000.015 (0) Processed schedules. Combining jobs from co-inciding events. Tasks now: Backup files: 1 Backup DB: 1
+0000.056 (0) Requesting semaphore lock (fd) (apparently via scheduler: last_scheduled_action_called_at=1481222532, seconds_ago=605247)
+0000.059 (0) Set semaphore last lock (fd) time to 2016-12-15 18:49:39
+0000.060 (0) Semaphore lock (fd) complete
+0000.066 (0) Backup run: resumption=0, nonce=07871a4635b8, begun at=1481827779 (0s ago), job type=backup
+0000.069 (0) Scheduling a resumption (1) after 300 seconds (1481828079) in case this run gets aborted
+0000.105 (0) Checking if we have a zip executable available
+0000.108 (0) Creation of backups of directories: beginning
+0000.112 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0003.961 (0) Total entities for the zip file: 1384 directories, 8103 files (0 skipped as non-modified), 105.6 MB
+0004.020 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0004.102 (0) Zip: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-plugins.zip.tmp: 100 files added (on-disk size: 261 KB)
+0004.141 (0) Zip: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-plugins.zip.tmp: 200 files added (on-disk size: 261 KB)
+0004.192 (0) Zip: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-plugins.zip.tmp: 300 files added (on-disk size: 261 KB)
+0004.247 (0) Zip: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-plugins.zip.tmp: 400 files added (on-disk size: 261 KB)
+0004.300 (0) Zip: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-plugins.zip.tmp: 500 files added (on-disk size: 261 KB)
+0004.302 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (5.5 MB, 8103 files batched, 501 (502) added so far); re-opening (prior size: 261 KB)
+0004.940 (0) Zip: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-plugins.zip.tmp: 600 files added (on-disk size: 1923.2 KB)
+0004.999 (0) Zip: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-plugins.zip.tmp: 700 files added (on-disk size: 1923.2 KB)
+0005.055 (0) Zip: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-plugins.zip.tmp: 800 files added (on-disk size: 1923.2 KB)
+0005.113 (0) Zip: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-plugins.zip.tmp: 900 files added (on-disk size: 1923.2 KB)
+0005.166 (0) Zip: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-plugins.zip.tmp: 1000 files added (on-disk size: 1923.2 KB)
+0005.170 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (1.6 MB, 8103 files batched, 501 (1003) added so far); re-opening (prior size: 1923.2 KB)
+0005.411 (0) Zip: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-plugins.zip.tmp: 1100 files added (on-disk size: 2614.3 KB)
+0005.453 (0) Zip: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-plugins.zip.tmp: 1200 files added (on-disk size: 2614.3 KB)
+0005.498 (0) Zip: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-plugins.zip.tmp: 1300 files added (on-disk size: 2614.3 KB)
+0005.542 (0) Zip: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-plugins.zip.tmp: 1400 files added (on-disk size: 2614.3 KB)
+0005.603 (0) Zip: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-plugins.zip.tmp: 1500 files added (on-disk size: 2614.3 KB)
+0005.607 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (14.1 MB, 8103 files batched, 501 (1504) added so far); re-opening (prior size: 2614.3 KB)
+0007.454 (0) Zip: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-plugins.zip.tmp: 1600 files added (on-disk size: 7070.6 KB)
+0007.645 (0) Zip: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-plugins.zip.tmp: 1700 files added (on-disk size: 7070.6 KB)
+0007.702 (0) Zip: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-plugins.zip.tmp: 1800 files added (on-disk size: 7070.6 KB)
+0007.746 (0) Zip: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-plugins.zip.tmp: 1900 files added (on-disk size: 7070.6 KB)
+0007.795 (0) Zip: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-plugins.zip.tmp: 2000 files added (on-disk size: 7070.6 KB)
+0007.799 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (23.7 MB, 8103 files batched, 501 (2005) added so far); re-opening (prior size: 7070.6 KB)
+0009.521 (0) Zip: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-plugins.zip.tmp: 2100 files added (on-disk size: 11401.6 KB)
+0009.581 (0) Zip: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-plugins.zip.tmp: 2200 files added (on-disk size: 11401.6 KB)
+0009.642 (0) Zip: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-plugins.zip.tmp: 2300 files added (on-disk size: 11401.6 KB)
+0009.707 (0) Zip: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-plugins.zip.tmp: 2400 files added (on-disk size: 11401.6 KB)
+0009.771 (0) Zip: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-plugins.zip.tmp: 2500 files added (on-disk size: 11401.6 KB)
+0009.777 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (1.8 MB, 8103 files batched, 501 (2506) added so far); re-opening (prior size: 11401.6 KB)
+0010.354 (0) Zip: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-plugins.zip.tmp: 2600 files added (on-disk size: 12078.2 KB)
+0010.405 (0) Zip: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-plugins.zip.tmp: 2700 files added (on-disk size: 12078.2 KB)
+0010.456 (0) Zip: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-plugins.zip.tmp: 2800 files added (on-disk size: 12078.2 KB)
+0010.513 (0) Zip: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-plugins.zip.tmp: 2900 files added (on-disk size: 12078.2 KB)
+0010.574 (0) Zip: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-plugins.zip.tmp: 3000 files added (on-disk size: 12078.2 KB)
+0010.579 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (5.1 MB, 8103 files batched, 501 (3007) added so far); re-opening (prior size: 12078.2 KB)
+0011.342 (0) Zip: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-plugins.zip.tmp: 3100 files added (on-disk size: 13816.3 KB)
+0011.411 (0) Zip: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-plugins.zip.tmp: 3200 files added (on-disk size: 13816.3 KB)
+0011.476 (0) Zip: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-plugins.zip.tmp: 3300 files added (on-disk size: 13816.3 KB)
+0011.553 (0) Zip: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-plugins.zip.tmp: 3400 files added (on-disk size: 13816.3 KB)
+0011.631 (0) Zip: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-plugins.zip.tmp: 3500 files added (on-disk size: 13816.3 KB)
+0011.638 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (1 MB, 8103 files batched, 501 (3508) added so far); re-opening (prior size: 13816.3 KB)
+0011.913 (0) Zip: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-plugins.zip.tmp: 3600 files added (on-disk size: 14243.3 KB)
+0011.981 (0) Zip: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-plugins.zip.tmp: 3700 files added (on-disk size: 14243.3 KB)
+0012.040 (0) Zip: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-plugins.zip.tmp: 3800 files added (on-disk size: 14243.3 KB)
+0012.097 (0) Zip: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-plugins.zip.tmp: 3900 files added (on-disk size: 14243.3 KB)
+0012.159 (0) Zip: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-plugins.zip.tmp: 4000 files added (on-disk size: 14243.3 KB)
+0012.165 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (4.6 MB, 8103 files batched, 501 (4009) added so far); re-opening (prior size: 14243.3 KB)
+0012.908 (0) Zip: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-plugins.zip.tmp: 4100 files added (on-disk size: 16622.8 KB)
+0012.971 (0) Zip: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-plugins.zip.tmp: 4200 files added (on-disk size: 16622.8 KB)
+0013.032 (0) Zip: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-plugins.zip.tmp: 4300 files added (on-disk size: 16622.8 KB)
+0013.092 (0) Zip: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-plugins.zip.tmp: 4400 files added (on-disk size: 16622.8 KB)
+0013.152 (0) Zip: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-plugins.zip.tmp: 4500 files added (on-disk size: 16622.8 KB)
+0013.160 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (3.6 MB, 8103 files batched, 501 (4510) added so far); re-opening (prior size: 16622.8 KB)
+0013.683 (0) Zip: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-plugins.zip.tmp: 4600 files added (on-disk size: 18030.9 KB)
+0013.742 (0) Zip: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-plugins.zip.tmp: 4700 files added (on-disk size: 18030.9 KB)
+0013.799 (0) Zip: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-plugins.zip.tmp: 4800 files added (on-disk size: 18030.9 KB)
+0013.858 (0) Zip: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-plugins.zip.tmp: 4900 files added (on-disk size: 18030.9 KB)
+0013.916 (0) Zip: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-plugins.zip.tmp: 5000 files added (on-disk size: 18030.9 KB)
+0013.924 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (5.6 MB, 8103 files batched, 501 (5011) added so far); re-opening (prior size: 18030.9 KB)
+0014.544 (0) Zip: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-plugins.zip.tmp: 5100 files added (on-disk size: 20508.2 KB)
+0014.612 (0) Zip: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-plugins.zip.tmp: 5200 files added (on-disk size: 20508.2 KB)
+0014.680 (0) Zip: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-plugins.zip.tmp: 5300 files added (on-disk size: 20508.2 KB)
+0014.745 (0) Zip: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-plugins.zip.tmp: 5400 files added (on-disk size: 20508.2 KB)
+0014.811 (0) Zip: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-plugins.zip.tmp: 5500 files added (on-disk size: 20508.2 KB)
+0014.821 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (8.9 MB, 8103 files batched, 501 (5512) added so far); re-opening (prior size: 20508.2 KB)
+0015.996 (0) Zip: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-plugins.zip.tmp: 5600 files added (on-disk size: 24026.8 KB)
+0016.065 (0) Zip: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-plugins.zip.tmp: 5700 files added (on-disk size: 24026.8 KB)
+0016.127 (0) Zip: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-plugins.zip.tmp: 5800 files added (on-disk size: 24026.8 KB)
+0016.191 (0) Zip: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-plugins.zip.tmp: 5900 files added (on-disk size: 24026.8 KB)
+0016.256 (0) Zip: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-plugins.zip.tmp: 6000 files added (on-disk size: 24026.8 KB)
+0016.270 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (7.3 MB, 8103 files batched, 501 (6013) added so far); re-opening (prior size: 24026.8 KB)
+0017.818 (0) Zip: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-plugins.zip.tmp: 6100 files added (on-disk size: 26546.4 KB)
+0017.895 (0) Zip: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-plugins.zip.tmp: 6200 files added (on-disk size: 26546.4 KB)
+0017.964 (0) Zip: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-plugins.zip.tmp: 6300 files added (on-disk size: 26546.4 KB)
+0018.031 (0) Zip: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-plugins.zip.tmp: 6400 files added (on-disk size: 26546.4 KB)
+0018.098 (0) Zip: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-plugins.zip.tmp: 6500 files added (on-disk size: 26546.4 KB)
+0018.109 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (17.3 MB, 8103 files batched, 501 (6514) added so far); re-opening (prior size: 26546.4 KB)
+0021.329 (0) Zip: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-plugins.zip.tmp: 6600 files added (on-disk size: 31488.9 KB)
+0021.411 (0) Zip: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-plugins.zip.tmp: 6700 files added (on-disk size: 31488.9 KB)
+0021.491 (0) Zip: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-plugins.zip.tmp: 6800 files added (on-disk size: 31488.9 KB)
+0021.569 (0) Zip: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-plugins.zip.tmp: 6900 files added (on-disk size: 31488.9 KB)
+0021.651 (0) Zip: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-plugins.zip.tmp: 7000 files added (on-disk size: 31488.9 KB)
+0021.666 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (2.5 MB, 8103 files batched, 501 (7015) added so far); re-opening (prior size: 31488.9 KB)
+0022.183 (0) Zip: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-plugins.zip.tmp: 7100 files added (on-disk size: 32989.8 KB)
+0022.765 (0) Zip: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-plugins.zip.tmp: 7200 files added (on-disk size: 32989.8 KB)
+0022.866 (0) Zip: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-plugins.zip.tmp: 7300 files added (on-disk size: 32989.8 KB)
+0022.969 (0) Zip: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-plugins.zip.tmp: 7400 files added (on-disk size: 32989.8 KB)
+0023.059 (0) Zip: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-plugins.zip.tmp: 7500 files added (on-disk size: 32989.8 KB)
+0023.072 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (0.8 MB, 8103 files batched, 501 (7516) added so far); re-opening (prior size: 32989.8 KB)
+0024.129 (0) Zip: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-plugins.zip.tmp: 7600 files added (on-disk size: 33375.2 KB)
+0024.204 (0) Zip: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-plugins.zip.tmp: 7700 files added (on-disk size: 33375.2 KB)
+0024.283 (0) Zip: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-plugins.zip.tmp: 7800 files added (on-disk size: 33375.2 KB)
+0024.358 (0) Zip: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-plugins.zip.tmp: 7900 files added (on-disk size: 33375.2 KB)
+0024.435 (0) Zip: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-plugins.zip.tmp: 8000 files added (on-disk size: 33375.2 KB)
+0024.450 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (1.1 MB, 8103 files batched, 501 (8017) added so far); re-opening (prior size: 33375.2 KB)
+0024.859 (0) Zip: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-plugins.zip.tmp: 8100 files added (on-disk size: 34016.3 KB)
+0025.453 (0) Created plugins zip (0) - 34372.8 KB in 25.3 s (1356.6 KB/s) (SHA1 checksum: 990c08fb9b41df30cb0430a6a5e7a2a9cf55c2b3)
+0025.457 (0) Beginning creation of dump of themes (split every: 400 MB)
+0025.893 (0) Total entities for the zip file: 138 directories, 1076 files (0 skipped as non-modified), 44.8 MB
+0025.923 (0) Zip: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0025.950 (0) Zip: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0025.982 (0) Zip: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0026.012 (0) Zip: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0026.037 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25 MB, 1076 files batched, 482 (482) added so far); re-opening (prior size: 0 KB)
+0029.225 (0) A useful amount of data was added after this amount of zip processing: 4.6 s (normalised: 4.6 s, rate: 5609.4 KB/s)
+0029.227 (0) Performance is good - will increase the amount of data we attempt to batch (time=4.56488108635, normalised_time=4.56378568308, max_time=-1, data points known=0, old_max_bytes=26214400, new_max_bytes=34464019)
+0029.236 (0) Zip: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-themes.zip.tmp: 500 files added (on-disk size: 5356.6 KB)
+0029.274 (0) Zip: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-themes.zip.tmp: 600 files added (on-disk size: 5356.6 KB)
+0029.313 (0) Zip: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-themes.zip.tmp: 700 files added (on-disk size: 5356.6 KB)
+0029.345 (0) Zip: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-themes.zip.tmp: 800 files added (on-disk size: 5356.6 KB)
+0029.381 (0) Zip: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-themes.zip.tmp: 900 files added (on-disk size: 5356.6 KB)
+0029.409 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (17.6 MB, 1076 files batched, 501 (983) added so far); re-opening (prior size: 5356.6 KB)
+0031.311 (0) Zip: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-themes.zip.tmp: 1000 files added (on-disk size: 10047.6 KB)
+0031.809 (0) Created themes zip (0) - 11060.5 KB in 6.4 s (1741.8 KB/s) (SHA1 checksum: 943bf87893efb8085b415f0abe37211cbc054505)
+0031.813 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0031.814 (0) Looking for candidates to back up in: /home/ovolaclu/public_html/blog/wp/wp-content/uploads
+0031.815 (0) finding files: et_temp: adding to list (1)
+0031.816 (0) finding files: GeoIPv6.dat: adding to list (2)
+0031.817 (0) finding files: manifests: adding to list (3)
+0031.818 (0) finding files: woocommerce_uploads: adding to list (4)
+0031.819 (0) finding files: redux: adding to list (5)
+0031.821 (0) finding files: themler-export: adding to list (6)
+0031.822 (0) finding files: GeoIP.dat: adding to list (7)
+0031.823 (0) finding files: wc-logs: adding to list (8)
+0031.824 (0) finding files: 2015: adding to list (9)
+0031.825 (0) finding files: 2016: adding to list (10)
+0031.826 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0032.146 (0) Total entities for the zip file: 15 directories, 824 files (0 skipped as non-modified), 100.4 MB
+0032.171 (0) Zip: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0032.186 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 32.9 MB added on this batch (33.5 MB, 824 files batched, 157 (157) added so far); re-opening (prior size: 0 KB)
+0036.367 (0) A useful amount of data was added after this amount of zip processing: 4.7 s (normalised: 4.6 s, rate: 7284.4 KB/s)
+0036.371 (0) Performance is good - will increase the amount of data we attempt to batch (time=4.70784902573, normalised_time=4.62034038478, max_time=-1, data points known=0, old_max_bytes=34464019, new_max_bytes=44755168)
+0036.391 (0) Zip: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-uploads.zip.tmp: 200 files added (on-disk size: 32495.7 KB)
+0036.418 (0) Zip: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-uploads.zip.tmp: 300 files added (on-disk size: 32495.7 KB)
+0036.445 (0) Zip: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-uploads.zip.tmp: 400 files added (on-disk size: 32495.7 KB)
+0036.472 (0) Zip: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-uploads.zip.tmp: 500 files added (on-disk size: 32495.7 KB)
+0036.493 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 42.7 MB added on this batch (43.2 MB, 824 files batched, 415 (572) added so far); re-opening (prior size: 32495.7 KB)
+0041.393 (0) A useful amount of data was added after this amount of zip processing: 5.7 s (normalised: 5.7 s, rate: 7716 KB/s)
+0041.397 (0) Performance is good - will increase the amount of data we attempt to batch (time=5.73348498344, normalised_time=5.66433667131, max_time=-1, data points known=0, old_max_bytes=44755168, new_max_bytes=47407317)
+0041.418 (0) Zip: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-uploads.zip.tmp: 600 files added (on-disk size: 76166.4 KB)
+0041.447 (0) Zip: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-uploads.zip.tmp: 700 files added (on-disk size: 76166.4 KB)
+0041.478 (0) Zip: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-uploads.zip.tmp: 800 files added (on-disk size: 76166.4 KB)
+0045.589 (0) Created uploads zip (0) - 99912.1 KB in 13.8 s (7261 KB/s) (SHA1 checksum: 60500943db5b3402824f989950c55c95d8a73c9f)
+0045.596 (0) Beginning backup of other directories found in the content directory (index: 0)
+0045.598 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0045.600 (0) Looking for candidates to back up in: /home/ovolaclu/public_html/blog/wp/wp-content
+0045.602 (0) finding files: advanced-cache.php: adding to list (1)
+0045.604 (0) finding files: wp-cache-config.php: adding to list (2)
+0045.606 (0) finding files: upgrade: skipping: excluded by options
+0045.608 (0) finding files: index.php: adding to list (3)
+0045.610 (0) finding files: uploads: skipping: this is the uploads directory
+0045.612 (0) finding files: plugins: skipping: this is the plugins directory
+0045.614 (0) finding files: ai1wm-backups: skipping: excluded by options (glob)
+0045.616 (0) finding files: cache: skipping: excluded by options
+0045.618 (0) finding files: themes: skipping: this is the themes directory
+0045.620 (0) finding files: updraft: skipping: this is the updraft directory
+0045.623 (0) finding files: languages: adding to list (4)
+0045.647 (0) Total entities for the zip file: 3 directories, 41 files (0 skipped as non-modified), 4.8 MB
+0046.596 (0) Created others zip (0) - 1325.9 KB in 1 s (1369.1 KB/s) (SHA1 checksum: a9439d7117e7d8d5adfdaf88b0b55c38e547eaae)
+0046.606 (0) Saving backup status to database (elements: 8)
+0046.612 (0) Beginning creation of database dump (WordPress DB)
+0046.632 (0) Table wp_options: Total expected rows (approximate): 626
+0046.731 (0) Table wp_options: Total rows added: 622 in 0.10 seconds
+0046.734 (0) Table wp_options: finishing file (backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-db-table-wp_options.table.gz - 273.2 KB)
+0046.742 (0) Table wp_users: Total expected rows (approximate): 5
+0046.747 (0) Table wp_users: Total rows added: 5 in 0.00 seconds
+0046.749 (0) Table wp_users: finishing file (backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-db-table-wp_users.table.gz - 0.8 KB)
+0046.757 (0) Table wp_usermeta: Total expected rows (approximate): 165
+0046.768 (0) Table wp_usermeta: Total rows added: 165 in 0.01 seconds
+0046.771 (0) Table wp_usermeta: finishing file (backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-db-table-wp_usermeta.table.gz - 4.2 KB)
+0046.779 (0) Table wp_commentmeta: Total expected rows (approximate): 0
+0046.782 (0) Table wp_commentmeta: Total rows added: 0 in 0.00 seconds
+0046.785 (0) Table wp_commentmeta: finishing file (backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-db-table-wp_commentmeta.table.gz - 0.4 KB)
+0046.792 (0) Table wp_comments: Total expected rows (approximate): 0
+0046.797 (0) Table wp_comments: Total rows added: 0 in 0.00 seconds
+0046.799 (0) Table wp_comments: finishing file (backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-db-table-wp_comments.table.gz - 0.5 KB)
+0046.807 (0) Table wp_links: Total expected rows (approximate): 0
+0046.811 (0) Table wp_links: Total rows added: 0 in 0.00 seconds
+0046.813 (0) Table wp_links: finishing file (backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-db-table-wp_links.table.gz - 0.4 KB)
+0046.821 (0) Table wp_postmeta: Total expected rows (approximate): 11009
+0047.134 (0) Table wp_postmeta: Total rows added: 11009 in 0.31 seconds
+0047.137 (0) Table wp_postmeta: finishing file (backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-db-table-wp_postmeta.table.gz - 80.2 KB)
+0047.145 (0) Table wp_posts: Total expected rows (approximate): 386
+0047.212 (0) Table wp_posts: Total rows added: 386 in 0.06 seconds
+0047.214 (0) Table wp_posts: finishing file (backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-db-table-wp_posts.table.gz - 55.7 KB)
+0047.220 (0) Table wp_term_relationships: Total expected rows (approximate): 179
+0047.225 (0) Table wp_term_relationships: Total rows added: 179 in 0.00 seconds
+0047.227 (0) Table wp_term_relationships: finishing file (backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-db-table-wp_term_relationships.table.gz - 0.9 KB)
+0047.234 (0) Table wp_term_taxonomy: Total expected rows (approximate): 96
+0047.242 (0) Table wp_term_taxonomy: Total rows added: 96 in 0.01 seconds
+0047.245 (0) Table wp_term_taxonomy: finishing file (backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-db-table-wp_term_taxonomy.table.gz - 1.1 KB)
+0047.253 (0) Table wp_termmeta: Total expected rows (approximate): 66
+0047.259 (0) Table wp_termmeta: Total rows added: 66 in 0.00 seconds
+0047.261 (0) Table wp_termmeta: finishing file (backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-db-table-wp_termmeta.table.gz - 0.8 KB)
+0047.306 (0) Table wp_terms: Total expected rows (approximate): 96
+0047.313 (0) Table wp_terms: Total rows added: 96 in 0.01 seconds
+0047.316 (0) Table wp_terms: finishing file (backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-db-table-wp_terms.table.gz - 1.6 KB)
+0047.324 (0) Table wp_icl_content_status: Total expected rows (approximate): 0
+0047.328 (0) Table wp_icl_content_status: Total rows added: 0 in 0.00 seconds
+0047.330 (0) Table wp_icl_content_status: finishing file (backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-db-table-wp_icl_content_status.table.gz - 0.3 KB)
+0047.337 (0) Table wp_icl_core_status: Total expected rows (approximate): 0
+0047.341 (0) Table wp_icl_core_status: Total rows added: 0 in 0.00 seconds
+0047.344 (0) Table wp_icl_core_status: finishing file (backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-db-table-wp_icl_core_status.table.gz - 0.3 KB)
+0047.351 (0) Table wp_icl_flags: Total expected rows (approximate): 63
+0047.358 (0) Table wp_icl_flags: Total rows added: 63 in 0.00 seconds
+0047.360 (0) Table wp_icl_flags: finishing file (backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-db-table-wp_icl_flags.table.gz - 0.9 KB)
+0047.368 (0) Table wp_icl_languages: Total expected rows (approximate): 63
+0047.375 (0) Table wp_icl_languages: Total rows added: 63 in 0.01 seconds
+0047.378 (0) Table wp_icl_languages: finishing file (backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-db-table-wp_icl_languages.table.gz - 1.5 KB)
+0047.386 (0) Table wp_icl_languages_translations: Total expected rows (approximate): 3969
+0047.480 (0) Table wp_icl_languages_translations: Total rows added: 3969 in 0.09 seconds
+0047.482 (0) Table wp_icl_languages_translations: finishing file (backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-db-table-wp_icl_languages_translations.table.gz - 33.1 KB)
+0047.488 (0) Table wp_icl_locale_map: Total expected rows (approximate): 2
+0047.491 (0) Table wp_icl_locale_map: Total rows added: 2 in 0.00 seconds
+0047.493 (0) Table wp_icl_locale_map: finishing file (backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-db-table-wp_icl_locale_map.table.gz - 0.3 KB)
+0047.498 (0) Table wp_icl_message_status: Total expected rows (approximate): 0
+0047.502 (0) Table wp_icl_message_status: Total rows added: 0 in 0.00 seconds
+0047.503 (0) Table wp_icl_message_status: finishing file (backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-db-table-wp_icl_message_status.table.gz - 0.4 KB)
+0047.511 (0) Table wp_icl_node: Total expected rows (approximate): 0
+0047.514 (0) Table wp_icl_node: Total rows added: 0 in 0.00 seconds
+0047.517 (0) Table wp_icl_node: finishing file (backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-db-table-wp_icl_node.table.gz - 0.3 KB)
+0047.524 (0) Table wp_icl_reminders: Total expected rows (approximate): 0
+0047.528 (0) Table wp_icl_reminders: Total rows added: 0 in 0.00 seconds
+0047.530 (0) Table wp_icl_reminders: finishing file (backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-db-table-wp_icl_reminders.table.gz - 0.3 KB)
+0047.538 (0) Table wp_icl_string_pages: Total expected rows (approximate): 1474
+0047.565 (0) Table wp_icl_string_pages: Total rows added: 1474 in 0.02 seconds
+0047.566 (0) Table wp_icl_string_pages: finishing file (backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-db-table-wp_icl_string_pages.table.gz - 5.7 KB)
+0047.571 (0) Table wp_icl_string_positions: Total expected rows (approximate): 0
+0047.574 (0) Table wp_icl_string_positions: Total rows added: 0 in 0.00 seconds
+0047.575 (0) Table wp_icl_string_positions: finishing file (backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-db-table-wp_icl_string_positions.table.gz - 0.3 KB)
+0047.582 (0) Table wp_icl_string_status: Total expected rows (approximate): 0
+0047.585 (0) Table wp_icl_string_status: Total rows added: 0 in 0.00 seconds
+0047.587 (0) Table wp_icl_string_status: finishing file (backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-db-table-wp_icl_string_status.table.gz - 0.4 KB)
+0047.595 (0) Table wp_icl_string_translations: Total expected rows (approximate): 18
+0047.601 (0) Table wp_icl_string_translations: Total rows added: 18 in 0.00 seconds
+0047.603 (0) Table wp_icl_string_translations: finishing file (backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-db-table-wp_icl_string_translations.table.gz - 1.3 KB)
+0047.611 (0) Table wp_icl_string_urls: Total expected rows (approximate): 29
+0047.616 (0) Table wp_icl_string_urls: Total rows added: 29 in 0.00 seconds
+0047.618 (0) Table wp_icl_string_urls: finishing file (backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-db-table-wp_icl_string_urls.table.gz - 0.8 KB)
+0047.626 (0) Table wp_icl_strings: Total expected rows (approximate): 188
+0047.643 (0) Table wp_icl_strings: Total rows added: 188 in 0.01 seconds
+0047.645 (0) Table wp_icl_strings: finishing file (backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-db-table-wp_icl_strings.table.gz - 11.3 KB)
+0047.653 (0) Table wp_icl_translate: Total expected rows (approximate): 0
+0047.657 (0) Table wp_icl_translate: Total rows added: 0 in 0.00 seconds
+0047.659 (0) Table wp_icl_translate: finishing file (backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-db-table-wp_icl_translate.table.gz - 0.4 KB)
+0047.667 (0) Table wp_icl_translate_job: Total expected rows (approximate): 0
+0047.671 (0) Table wp_icl_translate_job: Total rows added: 0 in 0.00 seconds
+0047.673 (0) Table wp_icl_translate_job: finishing file (backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-db-table-wp_icl_translate_job.table.gz - 0.4 KB)
+0047.681 (0) Table wp_icl_translation_batches: Total expected rows (approximate): 0
+0047.685 (0) Table wp_icl_translation_batches: Total rows added: 0 in 0.00 seconds
+0047.687 (0) Table wp_icl_translation_batches: finishing file (backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-db-table-wp_icl_translation_batches.table.gz - 0.3 KB)
+0047.694 (0) Table wp_icl_translation_status: Total expected rows (approximate): 0
+0047.699 (0) Table wp_icl_translation_status: Total rows added: 0 in 0.00 seconds
+0047.701 (0) Table wp_icl_translation_status: finishing file (backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-db-table-wp_icl_translation_status.table.gz - 0.5 KB)
+0047.709 (0) Table wp_icl_translations: Total expected rows (approximate): 179
+0047.721 (0) Table wp_icl_translations: Total rows added: 179 in 0.01 seconds
+0047.723 (0) Table wp_icl_translations: finishing file (backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-db-table-wp_icl_translations.table.gz - 2.1 KB)
+0047.731 (0) Table wp_responsive_menu: Total expected rows (approximate): 142
+0047.742 (0) Table wp_responsive_menu: Total rows added: 142 in 0.01 seconds
+0047.744 (0) Table wp_responsive_menu: finishing file (backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-db-table-wp_responsive_menu.table.gz - 1.6 KB)
+0047.752 (0) Table wp_woocommerce_api_keys: Total expected rows (approximate): 0
+0047.756 (0) Table wp_woocommerce_api_keys: Total rows added: 0 in 0.00 seconds
+0047.758 (0) Table wp_woocommerce_api_keys: finishing file (backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-db-table-wp_woocommerce_api_keys.table.gz - 0.4 KB)
+0047.766 (0) Table wp_woocommerce_attribute_taxonomies: Total expected rows (approximate): 0
+0047.770 (0) Table wp_woocommerce_attribute_taxonomies: Total rows added: 0 in 0.00 seconds
+0047.772 (0) Table wp_woocommerce_attribute_taxonomies: finishing file (backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-db-table-wp_woocommerce_attribute_taxonomies.table.gz - 0.4 KB)
+0047.780 (0) Table wp_woocommerce_downloadable_product_permissions: Total expected rows (approximate): 0
+0047.784 (0) Table wp_woocommerce_downloadable_product_permissions: Total rows added: 0 in 0.00 seconds
+0047.786 (0) Table wp_woocommerce_downloadable_product_permissions: finishing file (backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-db-table-wp_woocommerce_downloadable_product_permissions.table.gz - 0.5 KB)
+0047.794 (0) Table wp_woocommerce_order_itemmeta: Total expected rows (approximate): 0
+0047.798 (0) Table wp_woocommerce_order_itemmeta: Total rows added: 0 in 0.00 seconds
+0047.800 (0) Table wp_woocommerce_order_itemmeta: finishing file (backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-db-table-wp_woocommerce_order_itemmeta.table.gz - 0.4 KB)
+0047.808 (0) Table wp_woocommerce_order_items: Total expected rows (approximate): 0
+0047.812 (0) Table wp_woocommerce_order_items: Total rows added: 0 in 0.00 seconds
+0047.815 (0) Table wp_woocommerce_order_items: finishing file (backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-db-table-wp_woocommerce_order_items.table.gz - 0.3 KB)
+0047.821 (0) Table wp_woocommerce_payment_tokenmeta: Total expected rows (approximate): 0
+0047.824 (0) Table wp_woocommerce_payment_tokenmeta: Total rows added: 0 in 0.00 seconds
+0047.825 (0) Table wp_woocommerce_payment_tokenmeta: finishing file (backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-db-table-wp_woocommerce_payment_tokenmeta.table.gz - 0.4 KB)
+0047.832 (0) Table wp_woocommerce_payment_tokens: Total expected rows (approximate): 0
+0047.835 (0) Table wp_woocommerce_payment_tokens: Total rows added: 0 in 0.00 seconds
+0047.837 (0) Table wp_woocommerce_payment_tokens: finishing file (backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-db-table-wp_woocommerce_payment_tokens.table.gz - 0.4 KB)
+0047.845 (0) Table wp_woocommerce_sessions: Total expected rows (approximate): 0
+0047.849 (0) Table wp_woocommerce_sessions: Total rows added: 0 in 0.00 seconds
+0047.851 (0) Table wp_woocommerce_sessions: finishing file (backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-db-table-wp_woocommerce_sessions.table.gz - 0.3 KB)
+0047.859 (0) Table wp_woocommerce_shipping_zone_locations: Total expected rows (approximate): 0
+0047.863 (0) Table wp_woocommerce_shipping_zone_locations: Total rows added: 0 in 0.00 seconds
+0047.865 (0) Table wp_woocommerce_shipping_zone_locations: finishing file (backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-db-table-wp_woocommerce_shipping_zone_locations.table.gz - 0.4 KB)
+0047.873 (0) Table wp_woocommerce_shipping_zone_methods: Total expected rows (approximate): 0
+0047.876 (0) Table wp_woocommerce_shipping_zone_methods: Total rows added: 0 in 0.00 seconds
+0047.879 (0) Table wp_woocommerce_shipping_zone_methods: finishing file (backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-db-table-wp_woocommerce_shipping_zone_methods.table.gz - 0.4 KB)
+0047.886 (0) Table wp_woocommerce_shipping_zones: Total expected rows (approximate): 0
+0047.890 (0) Table wp_woocommerce_shipping_zones: Total rows added: 0 in 0.00 seconds
+0047.892 (0) Table wp_woocommerce_shipping_zones: finishing file (backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-db-table-wp_woocommerce_shipping_zones.table.gz - 0.3 KB)
+0047.900 (0) Table wp_woocommerce_tax_rate_locations: Total expected rows (approximate): 0
+0047.904 (0) Table wp_woocommerce_tax_rate_locations: Total rows added: 0 in 0.00 seconds
+0047.906 (0) Table wp_woocommerce_tax_rate_locations: finishing file (backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-db-table-wp_woocommerce_tax_rate_locations.table.gz - 0.4 KB)
+0047.914 (0) Table wp_woocommerce_tax_rates: Total expected rows (approximate): 0
+0047.918 (0) Table wp_woocommerce_tax_rates: Total rows added: 0 in 0.00 seconds
+0047.920 (0) Table wp_woocommerce_tax_rates: finishing file (backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-db-table-wp_woocommerce_tax_rates.table.gz - 0.4 KB)
+0047.928 (0) backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-db-table-wp_options.table.gz (1/46): adding to final database dump
+0048.006 (0) backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-db-table-wp_users.table.gz (2/46): adding to final database dump
+0048.007 (0) backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-db-table-wp_usermeta.table.gz (3/46): adding to final database dump
+0048.011 (0) backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-db-table-wp_commentmeta.table.gz (4/46): adding to final database dump
+0048.012 (0) backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-db-table-wp_comments.table.gz (5/46): adding to final database dump
+0048.014 (0) backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-db-table-wp_links.table.gz (6/46): adding to final database dump
+0048.015 (0) backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-db-table-wp_postmeta.table.gz (7/46): adding to final database dump
+0048.114 (0) backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-db-table-wp_posts.table.gz (8/46): adding to final database dump
+0048.137 (0) backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-db-table-wp_term_relationships.table.gz (9/46): adding to final database dump
+0048.140 (0) backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-db-table-wp_term_taxonomy.table.gz (10/46): adding to final database dump
+0048.142 (0) backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-db-table-wp_termmeta.table.gz (11/46): adding to final database dump
+0048.144 (0) backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-db-table-wp_terms.table.gz (12/46): adding to final database dump
+0048.147 (0) backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-db-table-wp_icl_content_status.table.gz (13/46): adding to final database dump
+0048.148 (0) backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-db-table-wp_icl_core_status.table.gz (14/46): adding to final database dump
+0048.150 (0) backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-db-table-wp_icl_flags.table.gz (15/46): adding to final database dump
+0048.151 (0) backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-db-table-wp_icl_languages.table.gz (16/46): adding to final database dump
+0048.154 (0) backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-db-table-wp_icl_languages_translations.table.gz (17/46): adding to final database dump
+0048.191 (0) backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-db-table-wp_icl_locale_map.table.gz (18/46): adding to final database dump
+0048.192 (0) backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-db-table-wp_icl_message_status.table.gz (19/46): adding to final database dump
+0048.194 (0) backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-db-table-wp_icl_node.table.gz (20/46): adding to final database dump
+0048.195 (0) backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-db-table-wp_icl_reminders.table.gz (21/46): adding to final database dump
+0048.197 (0) backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-db-table-wp_icl_string_pages.table.gz (22/46): adding to final database dump
+0048.209 (0) backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-db-table-wp_icl_string_positions.table.gz (23/46): adding to final database dump
+0048.210 (0) backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-db-table-wp_icl_string_status.table.gz (24/46): adding to final database dump
+0048.212 (0) backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-db-table-wp_icl_string_translations.table.gz (25/46): adding to final database dump
+0048.213 (0) backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-db-table-wp_icl_string_urls.table.gz (26/46): adding to final database dump
+0048.215 (0) backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-db-table-wp_icl_strings.table.gz (27/46): adding to final database dump
+0048.221 (0) backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-db-table-wp_icl_translate.table.gz (28/46): adding to final database dump
+0048.223 (0) backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-db-table-wp_icl_translate_job.table.gz (29/46): adding to final database dump
+0048.224 (0) backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-db-table-wp_icl_translation_batches.table.gz (30/46): adding to final database dump
+0048.225 (0) backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-db-table-wp_icl_translation_status.table.gz (31/46): adding to final database dump
+0048.227 (0) backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-db-table-wp_icl_translations.table.gz (32/46): adding to final database dump
+0048.230 (0) backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-db-table-wp_responsive_menu.table.gz (33/46): adding to final database dump
+0048.233 (0) backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-db-table-wp_woocommerce_api_keys.table.gz (34/46): adding to final database dump
+0048.235 (0) backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-db-table-wp_woocommerce_attribute_taxonomies.table.gz (35/46): adding to final database dump
+0048.237 (0) backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-db-table-wp_woocommerce_downloadable_product_permissions.table.gz (36/46): adding to final database dump
+0048.238 (0) backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-db-table-wp_woocommerce_order_itemmeta.table.gz (37/46): adding to final database dump
+0048.240 (0) backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-db-table-wp_woocommerce_order_items.table.gz (38/46): adding to final database dump
+0048.241 (0) backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-db-table-wp_woocommerce_payment_tokenmeta.table.gz (39/46): adding to final database dump
+0048.243 (0) backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-db-table-wp_woocommerce_payment_tokens.table.gz (40/46): adding to final database dump
+0048.245 (0) backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-db-table-wp_woocommerce_sessions.table.gz (41/46): adding to final database dump
+0048.247 (0) backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-db-table-wp_woocommerce_shipping_zone_locations.table.gz (42/46): adding to final database dump
+0048.249 (0) backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-db-table-wp_woocommerce_shipping_zone_methods.table.gz (43/46): adding to final database dump
+0048.251 (0) backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-db-table-wp_woocommerce_shipping_zones.table.gz (44/46): adding to final database dump
+0048.252 (0) backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-db-table-wp_woocommerce_tax_rate_locations.table.gz (45/46): adding to final database dump
+0048.254 (0) backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-db-table-wp_woocommerce_tax_rates.table.gz (46/46): adding to final database dump
+0048.256 (0) backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-db.gz: finished writing out complete database file (464 KB)
+0048.269 (0) Total database tables backed up: 46 (backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-db.gz, size: 488677, checksum (SHA1): 92b161ed671d1d31bb38424354525ed4696f370b)
+0048.279 (0) backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0048.281 (0) backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0048.283 (0) backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0048.285 (0) backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-others.zip: others: This file has not yet been successfully uploaded: will queue
+0048.287 (0) backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-db.gz: db: This file has not yet been successfully uploaded: will queue
+0048.289 (0) Saving backup history. Total backup size: 143.7 MB
+0048.295 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0048.301 (0) Cloud backup selection (1/1): dropbox (last)
+0048.303 (0) Beginning dispatch of backup to remote (dropbox)
+0048.305 (0) Dropbox: begin cloud upload (using API version 2 with OAuth v2 token)
+0048.323 (0) Dropbox: access gained; setting chunk size to: 1024 KB
+0050.166 (0) Dropbox quota usage: used=1525.8 MB, total=2560 MB, available=1034.2 MB
+0050.167 (0) Dropbox: Attempt to upload: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-plugins.zip to: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-plugins.zip
+0052.568 (0) Dropbox chunked upload: 3 % uploaded (AAAAAAAABIw8DrkMugrfbg, 1048576, 3584 KB)
+0056.441 (0) Dropbox chunked upload: 13.4 % uploaded (AAAAAAAABIw8DrkMugrfbg, 4718592, 8192 KB)
+0061.604 (0) Dropbox chunked upload: 37.2 % uploaded (AAAAAAAABIw8DrkMugrfbg, 13107200, 10240 KB)
+0067.463 (0) Dropbox chunked upload: 67 % uploaded (AAAAAAAABIw8DrkMugrfbg, 23592960, 10240 KB)
+0074.086 (0) Dropbox chunked upload: 96.8 % uploaded (AAAAAAAABIw8DrkMugrfbg, 34078720, 10240 KB)
+0076.384 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAAABIw8DrkMugrfbg, 35197708, 10240 KB)
+0081.959 (0) Recording as successfully uploaded: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-plugins.zip (023b9bb8d8eb06b4485f89cef134d747)
+0081.981 (0) Deleting local file: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-plugins.zip: OK
+0081.983 (0) Dropbox: File upload success (backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-plugins.zip): 34372 KB in 31s (1080 KB/s)
+0082.829 (0) Dropbox quota usage: used=1559.4 MB, total=2560 MB, available=1000.6 MB
+0082.832 (0) Dropbox: Attempt to upload: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-themes.zip to: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-themes.zip
+0088.400 (0) Dropbox chunked upload: 92.6 % uploaded (AAAAAAAABI2SDD0h5XlW1Q, 10485760, 10240 KB)
+0090.886 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAAABI2SDD0h5XlW1Q, 11325922, 10240 KB)
+0092.769 (0) Recording as successfully uploaded: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-themes.zip (2b02c11a5b6f982ebe4e916fbbd7fadc)
+0092.781 (0) Deleting local file: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-themes.zip: OK
+0092.783 (0) Dropbox: File upload success (backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-themes.zip): 11060 KB in 9s (1111 KB/s)
+0093.541 (0) Dropbox quota usage: used=1570.2 MB, total=2560 MB, available=989.8 MB
+0093.544 (0) Dropbox: Attempt to upload: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-uploads.zip to: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-uploads.zip
+0099.258 (0) Dropbox chunked upload: 10.2 % uploaded (AAAAAAAABI4ADkNxX_ljOg, 10485760, 10240 KB)
+0105.407 (0) Dropbox chunked upload: 20.5 % uploaded (AAAAAAAABI4ADkNxX_ljOg, 20971520, 10240 KB)
+0111.954 (0) Dropbox chunked upload: 30.7 % uploaded (AAAAAAAABI4ADkNxX_ljOg, 31457280, 10240 KB)
+0118.490 (0) Dropbox chunked upload: 41 % uploaded (AAAAAAAABI4ADkNxX_ljOg, 41943040, 10240 KB)
+0124.755 (0) Dropbox chunked upload: 51.2 % uploaded (AAAAAAAABI4ADkNxX_ljOg, 52428800, 10240 KB)
+0131.062 (0) Dropbox chunked upload: 61.5 % uploaded (AAAAAAAABI4ADkNxX_ljOg, 62914560, 10240 KB)
+0136.438 (0) Dropbox chunked upload: 71.7 % uploaded (AAAAAAAABI4ADkNxX_ljOg, 73400320, 10240 KB)
+0144.242 (0) Dropbox chunked upload: 82 % uploaded (AAAAAAAABI4ADkNxX_ljOg, 83886080, 10240 KB)
+0150.487 (0) Dropbox chunked upload: 92.2 % uploaded (AAAAAAAABI4ADkNxX_ljOg, 94371840, 10240 KB)
+0156.153 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAAABI4ADkNxX_ljOg, 102310000, 10240 KB)
+0157.774 (0) Recording as successfully uploaded: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-uploads.zip (afbaf95b410ed3afca8a9e666e75cdab)
+0157.809 (0) Deleting local file: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-uploads.zip: OK
+0157.811 (0) Dropbox: File upload success (backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-uploads.zip): 99912 KB in 64s (1554 KB/s)
+0158.548 (0) Dropbox quota usage: used=1667.7 MB, total=2560 MB, available=892.3 MB
+0158.551 (0) Dropbox: Attempt to upload: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-others.zip to: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-others.zip
+0161.132 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAAABI-Y1sq0zy5-dQ, 1357729, 10240 KB)
+0162.586 (0) Recording as successfully uploaded: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-others.zip (46819ce62b8dde85d983025a65fc4ebe)
+0162.591 (0) Deleting local file: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-others.zip: OK
+0162.593 (0) Dropbox: File upload success (backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-others.zip): 1325 KB in 4s (328 KB/s)
+0163.331 (0) Dropbox quota usage: used=1669 MB, total=2560 MB, available=891 MB
+0163.333 (0) Dropbox: Attempt to upload: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-db.gz to: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-db.gz
+0165.326 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAAABJCfFeXM18Ip2Q, 488677, 10240 KB)
+0166.884 (0) Recording as successfully uploaded: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-db.gz (ce948c0462b4ab83b9d0032d510e82d1)
+0166.891 (0) Deleting local file: backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-db.gz: OK
+0166.893 (0) Dropbox: File upload success (backup_2016-12-15-1849_OVO_Network_Blog_07871a4635b8-db.gz): 477 KB in 3s (134 KB/s)
+0166.899 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=4, retain_db=7
+0166.902 (0) Number of backup sets in history: 6; groups (db): 1
+0166.904 (0) Examining (for databases) backup set with group_id=0, nonce=07871a4635b8, datestamp=1481827779 (Dec 15 2016 18:49:39)
+0166.906 (0) This backup set is the backup set just made, so will not be deleted.
+0166.908 (0) Examining (for databases) backup set with group_id=0, nonce=d7c5ac77368f, datestamp=1481740921 (Dec 14 2016 18:42:01)
+0166.910 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0166.912 (0) Examining (for databases) backup set with group_id=0, nonce=98027aaed4c9, datestamp=1481656606 (Dec 13 2016 19:16:46)
+0166.914 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0166.916 (0) Examining (for databases) backup set with group_id=0, nonce=a856313e4e95, datestamp=1481652077 (Dec 13 2016 18:01:17)
+0166.918 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0166.921 (0) Examining (for databases) backup set with group_id=0, nonce=d17d1b6805d0, datestamp=1481222714 (Dec 08 2016 18:45:14)
+0166.923 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0166.925 (0) Examining (for databases) backup set with group_id=0, nonce=af07cf2671eb, datestamp=1481222532 (Dec 08 2016 18:42:12)
+0166.927 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0166.929 (0) Number of backup sets in history: 6; groups (files): 1
+0166.931 (0) Examining (for files) backup set with nonce=07871a4635b8, datestamp=1481827779 (Dec 15 2016 18:49:39)
+0166.933 (0) This backup set is the backup set just made, so will not be deleted.
+0166.935 (0) This backup set is the backup set just made, so will not be deleted.
+0166.936 (0) This backup set is the backup set just made, so will not be deleted.
+0166.937 (0) This backup set is the backup set just made, so will not be deleted.
+0166.938 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0166.940 (0) Examining (for files) backup set with nonce=d7c5ac77368f, datestamp=1481740921 (Dec 14 2016 18:42:01)
+0166.942 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0166.944 (0) Examining (for files) backup set with nonce=98027aaed4c9, datestamp=1481656606 (Dec 13 2016 19:16:46)
+0166.946 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0166.947 (0) Examining (for files) backup set with nonce=a856313e4e95, datestamp=1481652077 (Dec 13 2016 18:01:17)
+0166.948 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0166.949 (0) Examining (for files) backup set with nonce=d17d1b6805d0, datestamp=1481222714 (Dec 08 2016 18:45:14)
+0166.950 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0166.951 (0) Examining (for files) backup set with nonce=af07cf2671eb, datestamp=1481222532 (Dec 08 2016 18:42:12)
+0166.953 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0166.955 (0) Retain: saving new backup history (sets now: 6) and finishing retain operation
+0166.960 (0) Resume backup (07871a4635b8, 0): finish run
+0166.963 (0) Decremented the semaphore (fd) by 1
+0166.965 (0) Semaphore (fd) unlocked
+0166.966 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0166.972 (0) Fetching RSS news feed
+0167.087 (0) Fetched RSS news feed; result is a: SimplePie
+0167.130 (0) Sending email ('Files and database (Full backup)') report (attachments: 0, size: 0 KB) to: allen...
+0169.240 (0) The backup apparently succeeded and is now complete
